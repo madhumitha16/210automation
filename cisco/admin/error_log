@@ -1,0 +1,6 @@
+[02-Dec-2017 12:26:22 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/index.php on line 169
+[02-Dec-2017 12:26:22 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/index.php on line 171
+[02-Dec-2017 12:37:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/coat.php on line 136
+[04-Dec-2017 18:27:10 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/chicken.php on line 86
+[04-Dec-2017 18:27:59 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/chicken.php on line 86
+[04-Dec-2017 18:28:22 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/batechnol/public_html/wdpapp/chicken.php on line 86
